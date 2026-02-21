@@ -49,6 +49,6 @@ Every solution file follows this format:
 
 ---
 
-> 🔗 GFG Profile → *(link will be added once username is confirmed)*
+> 🔗 GFG Profile → [abhaysinghnzzyt](https://www.geeksforgeeks.org/profile/abhaysinghnzzyt)
 >
 > Updated every time a new question is solved.

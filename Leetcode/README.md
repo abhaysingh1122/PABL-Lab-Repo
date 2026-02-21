@@ -1,6 +1,6 @@
 # 📘 LeetCode Solutions
 
-Solutions to LeetCode problems by **[Abhay Singh Nagarkoti](https://leetcode.com/abhaysingh1122/)**, written in Python.
+Solutions to LeetCode problems by **[Abhay Singh Nagarkoti](https://leetcode.com/u/abhayxcreeper)**, written in Python.
 
 Each file contains the full problem statement in comments, followed by the solution code — no separate README per question.
 
@@ -43,6 +43,6 @@ Every solution file follows this format:
 
 ---
 
-> 🔗 LeetCode Profile → [abhaysingh1122](https://leetcode.com/abhaysingh1122/)
+> 🔗 LeetCode Profile → [abhayxcreeper](https://leetcode.com/u/abhayxcreeper)
 >
 > Updated every time a new question is solved.
