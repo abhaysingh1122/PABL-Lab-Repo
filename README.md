@@ -65,7 +65,8 @@ PABL-Lab-Repo/
 ## 👤 About
 
 - **Author:** Abhay Singh Nagarkoti
-- **LeetCode:** [abhaysingh1122](https://leetcode.com/abhaysingh1122/)
+- **LeetCode:** [abhayxcreeper](https://leetcode.com/u/abhayxcreeper)
+- **GFG:** [abhaysinghnzzyt](https://www.geeksforgeeks.org/profile/abhaysinghnzzyt)
 - **GitHub:** [abhaysingh1122](https://github.com/abhaysingh1122)
 
 ---
